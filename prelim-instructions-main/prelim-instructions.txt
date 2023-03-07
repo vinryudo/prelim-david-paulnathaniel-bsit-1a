@@ -1,0 +1,63 @@
+Instructions: 
+
+1. Create a repository on GitHub using this pattern (prelim-lastname-firstname-year-and-section) example (prelim-salalila-renmark-bsit-1x) for your website project and make sure to create three branches - home, profile, and contact.
+
+2. Download the images provided to you and save them in the repository.
+
+3. Create three HTML pages - home, profile, and contact us - and make sure to match the design of the example as closely as possible.
+
+4. You may only use pure HTML tags that were discussed to make the design work.
+
+5. Push your changes to the respective branches on GitHub with proper commit messages.
+
+6. Finally, provide me with a timelapsed screen recording of your coding process.
+
+7. Open notes, Google and stackoverflow is welcome, my Github discussion repositories are always public and available for your references. Github username: https://github.com/senseihatakekakashi/
+
+Deadline: March 10, 2023 Friday before 12pm.
+
+_____________________________________________________________________________________________________________________________
+
+
+Important Guidelines:
+
+1. body has a background color of "lightgray"
+
+2. all pages should have a universal font of "Arial"
+
+3. Social Media Link should open a new Tab
+
+4. Inner Sections has a background color of "White" and Available Packages has "WhiteSmoke" background
+
+5. Item Headers has a background color of "Black"
+
+6. Pay attention to alignments and spacings
+
+7. Global font color for text is "DarkSlateGray" except for dark backgrounds which should be "White"
+
+8. Contact us Sidebar color = "#495c6a"
+
+_____________________________________________________________________________________________________________________________
+
+
+Grading
+
+1. Home Page: 50
+
+2. About Page: 20
+
+3. Contact Us Page: 30
+
+4. I will subtract 5 points for every incorrect output
+
+*Notes:
+
+1. No timelapsed video, No Checking
+
+2. No GitHub repository, No Checking
+
+3. Incorrect Branch and Commits, No Checking
+
+4. Late Submission, No Checking
+
+5. If caught cheating, automatically you are zero
